@@ -10,7 +10,7 @@ Features:
 - Clean and minimal UI
 
 Demo:
-You can try the app live here: [bgChanger App]()
+You can try the app live here: https://mohammadzaid07.github.io/bgChanger/
 
 Getting Started:
 

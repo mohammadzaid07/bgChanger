@@ -9,8 +9,7 @@ function App() {
           <button
             onClick={() => setColor("rgb(239 68 68)")} className='p-3 rounded-full w-20 cursor-pointer bg-red-500 shadow-md shadow-red-900'>Red</button>
           <button
-            onClick={() => setColor("rgb(34 197 94)")}
-            className='p-3 rounded-full w-20 cursor-pointer bg-green-500 shadow-md shadow-green-900'>Green</button>
+            onClick={() => setColor("rgb(34 197 94)")} className='p-3 rounded-full w-20 cursor-pointer bg-green-500 shadow-md shadow-green-900'>Green</button>
           <button
             onClick={() => setColor("rgb(59 130 246)")} className='p-3 rounded-full w-20 cursor-pointer bg-blue-500 shadow-md shadow-blue-900'>Blue</button>
           <button
